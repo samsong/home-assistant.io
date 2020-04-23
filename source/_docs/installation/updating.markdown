@@ -18,6 +18,12 @@ To avoid permission errors, the upgrade must be run as the same user as was used
 
 </div>
 
+<div class='note'>
+
+If commands containing "pip3" return an error. Try replacing "pip3" with "pip" in case your Python is V2
+
+</div>
+
 The default way to update Home Assistant to the latest release, when available, is:
 
 ```bash
